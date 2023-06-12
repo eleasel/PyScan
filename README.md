@@ -13,7 +13,7 @@ PyScan is a multi-threaded port scanning tool implemented in Python. It allows y
 
 1. Ensure you have Python 3.x installed on your system.
 
-2. Clone the repository or download the `port_scanner.py` script to your local machine.
+2. Clone the repository or download the `PortScan.py` script to your local machine.
 
 3. Install the required dependencies by running the command: `pip install -r requirements.txt`
 
