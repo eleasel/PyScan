@@ -38,7 +38,12 @@ No additional configuration is required for basic usage. However, you may need t
 ## Examples
 
 - Scan a single port range:
+    TARGET = 'example.com'
+    PORT_RANGE = '80-100'
+
 - Scan multiple port ranges:
+    TARGET = 'example.com'
+    PORT_RANGE = '80-100,200-300'
 
 ## Performance Considerations
 
